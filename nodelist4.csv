@@ -1,0 +1,29 @@
+id,name,sex,party,type,sector,Country
+ul,Ursula von der Leyen ,1,cdu,1,Politik,de
+lk,Lars Klingbeil,2,spd,1,Politik,de
+nr,Norbert Röttgen,2,cdu,1,Politik,de
+sw,Sahra Wagenknecht,1,linke,1,Politik,de
+cs,Constanze Stelzenmüller ,1,keine,1,Juristik,de
+cl,Christian Lindner,2,fdp,1,Politik,de
+ks,Karl Schlögel,2,keine,1,Historik,de
+lm,Ljudmyla Melnyk,1,keine,1,Wissenschaft,uk
+kd,Kristina Dunz,1,keine,1,Redaktion,de
+el,Egils Levits ,2,keine,1,Politik,lv
+ab,Annalena Baerbock ,1,gruene,1,Politik,de
+ft,Frans Timmermans,2,keine,1,Politik,nl
+am,Andrij Melnyk,2,keine,1,Botschafter,uk
+agf,Alexander Graf Lambsdorff ,2,fdp,1,Politik,de
+er,Egon Ramms,2,keine,1,Militär,de
+rh,Robert Habeck,2,gruene,1,Politik,de
+cm,Claudia Major,1,keine,1,Wissenschaft,de
+kp,Katja Petrowskaja,1,keine,1,Literatur,uk/de
+rk,Roderich Kiesewetter,2,cdu,1,Politik,de
+cdu,CDU,,,2,Partei,
+spd,SPD,,,2,Partei,
+gruene,Die Gruene,,,2,Partei,
+linke,Die Linke,,,2,Partei,
+fdp,FDP,,,2,Partei,
+500,Folge 500,,,,Folge,
+501,Folge 501,,,,Folge,
+502,Folge 502,,,,Folge,
+503,Folge 503,,,,Folge,
